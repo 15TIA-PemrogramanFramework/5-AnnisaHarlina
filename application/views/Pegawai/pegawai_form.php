@@ -40,7 +40,7 @@
 	</div>
 
 	<div class="form-group">
-		<label>Alamat</label>
+		<label>Password</label>
 		<input type="text" placeholder="Masukkan Password" value="<?php echo $password; ?>" class="form-control" name="password">
 	</div>
 	
